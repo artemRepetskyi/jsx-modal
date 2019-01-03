@@ -1,0 +1,17 @@
+Чтобы открыть окно вам нужно присвоить
+Кнопке:data-jsx-modal-target="ИМЯ";
+Окно:data-jsx-modal-id="ИМЯ";
+
+Наименнования должны быть одинаковы, чтобы синхронизировать
+окно, с кнопкой
+
+
+
+Шаблон: Окна
+
+ <div class="jsx-modal" data-jsx-modal-id="name">
+    <div class="jsx-modal__block">
+      <div class="jsx-modal__close">X</div>
+      ОКНО
+    </div>
+  </div>

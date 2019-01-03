@@ -1,0 +1,44 @@
+*{
+	padding: 0;
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+	        box-sizing: border-box;
+	    margin: 0;
+}
+
+
+
+
+.test-jsx-modal{
+	max-width: 400px;
+	background: #fff;
+	height: 300px;
+	font-size: 40px;
+}
+.test-jsx-modal-text{
+	padding-top: 30px;
+	text-align: center;
+	font-size: 25px;
+	text-transform: uppercase;
+}
+.test-jsx-modal-click{
+	width: 200px;
+	line-height: 50px;
+	height: 50px;
+	-webkit-border-radius: 20px;
+	        border-radius: 20px;
+	background: #2DA4E0;
+	color: #fff;
+	margin: 150px auto;
+	text-align: center;
+	cursor: pointer;
+}
+.test-jsx-modal__close{
+	font-weight: bold;
+	font-size: 20px;
+	position: absolute;
+	right: -30px;
+	top: -30px;
+	color: #FFF;
+	cursor: pointer;
+}
