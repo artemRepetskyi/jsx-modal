@@ -7,6 +7,7 @@
   <link rel="stylesheet" href="css/test.css">
 </head>
 <body> 
+  <?php echo "ECCHOOOOOO"; ?>
   <p class="test-jsx-modal-text">
     Это простое, и понятное окно для роботы! БОДДДЯЯЯН
     <br>
